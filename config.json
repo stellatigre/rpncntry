@@ -1,6 +1,7 @@
 {
-    "access_token": "3244671540-lD6kPs833t2EqQ57tAp56ZqUd91zH6YYgQamw1b",
-    "token_secret": "sjagibkBuJuk35vQENruThkgky6VUCGI0GkxcT0OAkPet",
-    "consumer_key": "RjuTQIYNgLgQBt577jXEBWhW0",
-    "consumer_secret": "Gst5bIR8D1X2vALcTVcA6CGrE1o9cHJHPVCgZKrWLIYjIvh9fl"
+    "access_token": "",
+    "token_secret": "",
+    "consumer_key": "",
+    "consumer_secret": "",
+	"delay": 1
 }
